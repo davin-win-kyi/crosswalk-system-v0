@@ -37,3 +37,17 @@
 ### be using to build up our system 
 
 
+
+# Installation steps
+### install conda
+### conda create --name crosswalk-system python 
+### conda activate crosswalk-system 
+### import torch
+### import ultralytics
+### import transformers
+### make sure that cuda is installed
+### install numpy 
+### import Pillow 
+
+
+
